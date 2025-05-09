@@ -1,4 +1,4 @@
-Neural Network for Customer Churn Prediction
+#Neural Network for Customer Churn Prediction
 This project implements a custom neural network from scratch to predict customer churn using the Customer Churn dataset. The neural network is built using Python and NumPy, incorporating advanced techniques such as autograd, dropout, and stochastic gradient descent (SGD). The model is evaluated using metrics like accuracy, precision, recall, F1-score, and ROC-AUC.
 
 Features
