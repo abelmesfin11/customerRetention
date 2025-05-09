@@ -71,23 +71,3 @@ Modify learning rate, dropout probability, and the number of epochs to optimize 
 Evaluation Metrics:
 Customize the verbosity level to monitor training and validation metrics throughout the process.
 
-🚀 Project Structure:
-bash
-Copy
-Edit
-customer-churn-prediction/
-├── neural.py                # Main script with neural network implementation
-├── CustomerChurn.csv        # Dataset file
-├── README.md                # Project documentation
-└── requirements.txt         # List of dependencies
-📈 Example Output:
-markdown
-Copy
-Edit
-Epoch 25: Training accuracy 85%, Validation accuracy 83%
-              precision    recall  f1-score   support
-           0       0.86      0.90      0.88       500
-           1       0.82      0.77      0.79       300
-    accuracy                           0.85       800
-   macro avg       0.84      0.83      0.84       800
-weighted avg       0.85      0.85      0.85       800
