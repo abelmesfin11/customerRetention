@@ -44,7 +44,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/customer-churn-prediction.git
+git clone https://github.com/abelmesfin11/customer-churn-prediction.git
 cd customer-churn-prediction
 Install dependencies:
 
