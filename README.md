@@ -1,4 +1,4 @@
-# 🧠 Neural Network for Customer Churn Prediction
+# Neural Network for Customer Churn Prediction
 Tech stack: Python, NumPy, Pandas, Scikit-learn, MissForest, Object-Oriented Programming (OOP)
 
 A custom-built neural network from scratch to predict customer churn. Designed to handle missing data efficiently and optimize prediction through dynamic dropout, SGD, and data preprocessing techniques.
@@ -20,7 +20,7 @@ Implemented stochastic gradient descent (SGD) for parameter updates, incorporati
 Comprehensive Performance Metrics:
 Evaluated the model using precision, recall, F1-score, and ROC-AUC. Included verbose mode to track training and validation accuracy across epochs.
 
-📊 Dataset:
+Dataset:
 Customer Churn Dataset:
 
 Contains customer demographic, account, and service usage data.
@@ -31,7 +31,7 @@ Missing values handled through MissForest imputation for optimal feature complet
 
 Data split: 80% training, 10% validation, 10% test.
 
-🧪 Results:
+Results:
 Achieved significant accuracy improvement by leveraging dropout and effective data preprocessing.
 
 Demonstrated robust performance on the Customer Churn dataset, with high precision and recall metrics.
