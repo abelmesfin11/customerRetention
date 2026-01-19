@@ -3,7 +3,7 @@ Tech stack: Python, NumPy, Pandas, Scikit-learn, MissForest, Object-Oriented Pro
 
 A custom-built neural network from scratch to predict customer churn. Designed to handle missing data efficiently and optimize prediction through dynamic dropout, SGD, and data preprocessing techniques.
 
-✨ Features:
+Features:
 Custom Neural Network Architecture:
 Implemented a neural network from scratch using Python and NumPy, incorporating autograd to efficiently compute gradients and perform backpropagation.
 
